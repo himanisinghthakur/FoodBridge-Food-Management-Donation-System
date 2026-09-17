@@ -76,5 +76,5 @@ FoodBridge aims to demonstrate how a simple software system can help organize su
 
 ##### Project: FoodBridge – Food Management & Donation System
 ##### Course: Introduction to Java Programming
-Language: Java
+##### Language: Java
 
