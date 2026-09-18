@@ -28,7 +28,6 @@ The system allows users to add surplus food details, view and search available f
 ## Technologies / Tools Used
 
 - Java: Used as the primary programming language for implementing the project logic.
-- HTML & CSS: Used/planned for designing the user interface.
 - Java ArrayList: Used for temporarily storing and managing food and NGO records.
 - VS Code: Used as the development environment.
 - JDK: Required to compile and run the Java program.
