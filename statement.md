@@ -1,0 +1,78 @@
+# FoodBridge -- Food Management & Donation System
+
+## Problem Statement
+
+Food wastage is a common issue in homes, institutions, restaurants,
+events, and other places where surplus food is generated. At the same
+time, many people and communities need access to food. There is a need
+for a simple system that can organize surplus food information and make
+it easier to connect available food with NGOs that can receive and
+distribute it.
+
+FoodBridge addresses this problem by providing a simple food management
+and donation system. It allows users to record surplus food, view and
+search food items, maintain an NGO directory, and donate available food
+to a selected NGO.
+
+## Scope of the Project
+
+The scope of FoodBridge is focused on basic surplus food management and
+donation.
+
+The system includes: - Adding surplus food details such as food name,
+quantity, unit, food type, and expiry date. - Viewing available and
+donated food records. - Searching for food items. - Maintaining a
+directory of NGOs. - Adding new NGOs to the directory. - Selecting an
+available food item and donating it to a registered NGO. - Updating the
+food status after donation. - Displaying basic statistics through an
+impact dashboard.
+
+The current version is a Java-based application and uses `ArrayList` for
+temporary data storage. It does not include a database, online payment,
+live location tracking, or pickup/delivery tracking.
+
+## Target Users
+
+The main target users of FoodBridge are:
+
+-   **Food Donors:** Individuals, restaurants, cafeterias, institutions,
+    or event organizers who have surplus food.
+-   **NGOs:** Organizations that can receive surplus food and distribute
+    it to people in need.
+-   **System Users/Administrators:** Users who manage food records and
+    maintain the NGO directory.
+
+## High-Level Features
+
+#### - Food Management
+
+Users can add and manage surplus food records containing relevant
+details such as quantity, type, and expiry date.
+
+#### - Food Search and Exploration
+
+Users can view available food and search for specific food items.
+
+#### - NGO Directory
+
+The system provides a directory of NGOs with their location, contact
+information, and accepted food types.
+
+#### - NGO Management
+
+Users can add new NGOs to the system.
+
+#### - Food Donation
+
+Available food can be selected and assigned to a registered NGO. After
+confirmation, its status is changed from **Available** to **Donated**.
+
+#### - Donation History
+
+Users can view previously donated food records and the NGO receiving the
+donation.
+
+#### - Impact Dashboard
+
+The system displays basic statistics such as total food items, available
+food, donated food, and registered NGOs.
