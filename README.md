@@ -132,36 +132,4 @@ Follow these steps to test the main functionality of the project:
 
 
 
-## Screenshots
 
-The following screenshots can be included to demonstrate the working of the project:
-
-1. FoodBridge Welcome Screen
-
-
-2. Adding Surplus Food
-
-
-3. Explore Food – Multiple Food Items
-
-
-4. Searching for Food
-
-
-5. NGO Directory
-
-
-6. Successful Food Donation
-
-
-7. Donation History
-
-
-8. Adding a New NGO
-
-
-9. Impact Dashboard
-
-
-
-These screenshots demonstrate the complete flow of the system, from adding surplus food to donating it to an NGO and viewing the resulting impact.
